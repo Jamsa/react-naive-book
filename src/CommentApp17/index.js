@@ -7,7 +7,9 @@ export default class CommentApp extends Component {
 
   constructor(){
     super()
-    
+    // comments 状态数据并没有放到到CommentList组件中，而是提到了此处。
+    // 因为React并没有直接提供方案解决组件间共享状态的问题。
+    // 如果将CommentApp嵌入其他应用，这里的comments状态数据同样会面临需要提取至更高层的应用中的问题。
     this.state = {
       comments:[] 
     }
