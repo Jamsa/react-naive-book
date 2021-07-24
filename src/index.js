@@ -5,13 +5,23 @@ import './index.css';
 //import Main from './Lession8';
 //import LikeButton from './Lession10';
 //import CommentApp from './CommentApp14';
-import CommentApp from './CommentApp17';
+//import CommentApp from './CommentApp17';
+//import Index from './Lession18';
+//import Index from './Lession19';
+//import AutoFocusInput from './Lession21';
+//import Index from './Lession22';
+//import Index from './Lession23';
+import CommentApp from './CommentApp25';
+
 import reportWebVitals from './reportWebVitals';
 
 
 ReactDOM.render(
   //<Main />,
+  //<LikeButton />,
   <CommentApp/>,
+  //<Index />,
+  //<AutoFocusInput />,
   document.getElementById('root')
 )
 
