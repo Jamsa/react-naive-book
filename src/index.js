@@ -21,7 +21,8 @@ import './index.css';
 //import renderAll from './Redux33';
 //import renderAll from './Redux34';
 //import Index from './ReactRedux37';
-import Index from './ReactRedux38';
+//import Index from './ReactRedux38';
+import Index from './CommentApp44';
 
 import reportWebVitals from './reportWebVitals';
 
