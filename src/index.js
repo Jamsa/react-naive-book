@@ -13,15 +13,22 @@ import './index.css';
 //import Index from './Lession23';
 //import CommentApp from './CommentApp25';
 //import Index from './Hoc28';
-import Index from './Context29';
-import reportWebVitals from './reportWebVitals';
+//import Index from './Context29';
 
-//示例Redux30至Redux34不由React渲染，启用时renderAll变量不能为null
-//const renderAll=null;
+
 //import renderAll from './Redux30';
 //import renderAll from './Redux31';
 //import renderAll from './Redux33';
-import renderAll from './Redux34';
+//import renderAll from './Redux34';
+//import Index from './ReactRedux37';
+import Index from './ReactRedux38';
+
+import reportWebVitals from './reportWebVitals';
+
+//示例Redux30至Redux34不由React渲染，启用时renderAll变量不能为null
+const renderAll=null;
+
+
 
 if(renderAll){
   renderAll()

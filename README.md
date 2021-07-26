@@ -2,6 +2,7 @@
 
 [React.js 小书的示例](https://hyf.js.org/react-naive-book)
 
+`src/index.js`是程序入口，数字结尾的`js`或目录是各个示例的入口，数字为课时编号。需要修改`src/index.js`的内容，以展示不同的示例。
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
