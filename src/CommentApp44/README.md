@@ -1,5 +1,6 @@
 使用react redux的版本
 
+
 components 目录下都是Dumb组件，Dumb组件是无业务状态的纯组件，可复用
 
 containers 目录下都是Smart组件，Smart组件通过connect人store中获取dispatch函数和局部状态，与具体的业务相关联
